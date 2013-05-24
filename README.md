@@ -1,8 +1,6 @@
-# Grupo
-- 123456 David Martinho
-- 123456 David Martinho
-- 123456 David Martinho
-- 123456 David Martinho
+# Grupo n26
+- 21003479 Bruno Inácio
+- 20060731 Júlio Ascenção
 
 ## Changelog
 #### Versão 1.0:
